@@ -3,3 +3,8 @@ data for access by multiple computing threads (or processes) on a computer.
 
 **Course**: Concurrent Data Structures, Monsoon 2020<br>
 **Taught by**: Prof. Govindarajulu Regeti
+<br>
+<br>
+
+> *TIP*: Use Adobe Acrobat Reader DC to save PDF if highlighting is not
+> visible on GitHub or other PDF viewers.
