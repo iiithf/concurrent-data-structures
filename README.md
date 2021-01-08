@@ -2,8 +2,12 @@ A Concurrent data structure is a particular way of storing and organizing
 data for access by multiple computing threads (or processes) on a computer.
 
 **Course**: Concurrent Data Structures, Monsoon 2020<br>
-**Taught by**: Prof. Govindarajulu Regeti<br>
-**Book**: The Art of Multiprocessor Programming; Maurice Herlihy, Nir Shavit
+**Taught by**: Prof. Govindarajulu Regeti
+
+<br>
+
+Book: [The Art of Multiprocessor Programming by Maurice Herlihy, Nir Shavit](https://github.com/mlearnf/the-art-of-multiprocessor-programming)<br>
+Project: [K-Compare Single-Swap](https://github.com/javaf/k-compare-single-swap)
 
 <br>
 
@@ -49,7 +53,10 @@ Exercises:
 
 <br>
 
-- [Project: K-Compare Single-Swap](https://github.com/javaf/k-compare-single-swap)
+
+### References
+
+- [Timeline of Computer History :: Computer History Museum](https://www.computerhistory.org/timeline/memory-storage/)
 
 <br>
 
