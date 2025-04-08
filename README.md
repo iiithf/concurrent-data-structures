@@ -108,3 +108,5 @@ data for access by multiple computing threads (or processes) on a computer.
 
 > **Tip**: Use Adobe Acrobat Reader DC to save PDF if highlighting is not
 > visible on GitHub or other PDF viewers.
+
+![](https://ga-beacon.deno.dev/G-4FTHWYCNMC:Ze0vK3cdTmSz-bzSssU1-Q/github.com/iiithf/concurrent-data-structures)
